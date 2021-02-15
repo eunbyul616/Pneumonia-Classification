@@ -1,0 +1,6 @@
+model_checkpoint_path: "attetion_mdl_4800.ckpt"
+all_model_checkpoint_paths: "attetion_mdl_3800.ckpt"
+all_model_checkpoint_paths: "attetion_mdl_3900.ckpt"
+all_model_checkpoint_paths: "attetion_mdl_4200.ckpt"
+all_model_checkpoint_paths: "attetion_mdl_4700.ckpt"
+all_model_checkpoint_paths: "attetion_mdl_4800.ckpt"
